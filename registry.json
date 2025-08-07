@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "flakes": {
+    "zig": {
+      "from": {
+        "type": "indirect",
+        "id": "zig"
+      },
+      "to": {
+        "type": "git",
+        "url": "ssh://git@git.poecoh.com/flakes/zig.git"
+      }
+    }
+  }
+}
