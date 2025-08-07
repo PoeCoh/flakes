@@ -12,7 +12,7 @@
           type = "git";
           url = "ssh://git@git.poecoh.com/flakes/zig.git";
         };
-      }
-    }
-  }
+      };
+    };
+  };
 }
