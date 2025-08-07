@@ -3,7 +3,7 @@
 
   inputs = {
     nixpkgs.url = "github:NixOS/nixpkgs/nixos-unstable";
-    zig-flake.url = "git+ssh://git@git.poecoh.com/flakes/zig.git";
+    zig-flake.url = "git+http://git.poecoh.com/flakes/zig.git";
   };
 
   outputs = {
