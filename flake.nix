@@ -15,10 +15,10 @@
     flake-utils,
     zig-flake
   }: flake-utils.lib.eachDefaultSystem (system: {
-    devShells.x86_64-linux = {
+    devShells.${system} = {
       zig = zig-flake.devShells.${system}.default;
     };
-    packages.x86_64-linux = {
+    packages.${system} = {
       zig = zig-flake.packages.${system}.default;
     };
   });
