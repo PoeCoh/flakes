@@ -92,11 +92,11 @@
     },
     "nixpkgs_2": {
       "locked": {
-        "lastModified": 1753345091,
-        "narHash": "sha256-CdX2Rtvp5I8HGu9swBmYuq+ILwRxpXdJwlpg8jvN4tU=",
+        "lastModified": 1754292888,
+        "narHash": "sha256-1ziydHSiDuSnaiPzCQh1mRFBsM2d2yRX9I+5OPGEmIE=",
         "owner": "NixOS",
         "repo": "nixpkgs",
-        "rev": "3ff0e34b1383648053bba8ed03f201d3466f90c9",
+        "rev": "ce01daebf8489ba97bd1609d185ea276efdeb121",
         "type": "github"
       },
       "original": {
@@ -148,11 +148,11 @@
         "zls-flake": "zls-flake"
       },
       "locked": {
-        "lastModified": 1754572132,
-        "narHash": "sha256-CnLDJYxO9dbJ1UBA6XE3BXk1F9WwqOQFO5zypmStruY=",
+        "lastModified": 1754619665,
+        "narHash": "sha256-EyvQLxCNNIFoGSa7Y5r32M+3wbfFTTLaJjUuSIu+ZFY=",
         "ref": "refs/heads/main",
-        "rev": "28a3477787578871f9822e845a43e5be5c66313f",
-        "revCount": 1,
+        "rev": "55a89cc6a93f4da666e0b63fb18b27381884409f",
+        "revCount": 7,
         "type": "git",
         "url": "http://git.poecoh.com/flakes/zig.git"
       },
@@ -172,11 +172,11 @@
         ]
       },
       "locked": {
-        "lastModified": 1753445652,
-        "narHash": "sha256-3ICoa7kfkLjDXUMBAcvc2py/8QKoY+cjqfKwO2g7CMY=",
+        "lastModified": 1754568919,
+        "narHash": "sha256-h/FHxaWb5BqxNhFcOksUQpCup0JeV0nQIDTvSIAUmoU=",
         "owner": "mitchellh",
         "repo": "zig-overlay",
-        "rev": "153f0fc99e985f32eb3f0f3a4aabbedd474d2df0",
+        "rev": "ebf25e33acf21034d7b5b618a91d60f8aa75c6ec",
         "type": "github"
       },
       "original": {
@@ -192,11 +192,11 @@
         "zig-overlay": "zig-overlay"
       },
       "locked": {
-        "lastModified": 1754373117,
-        "narHash": "sha256-4/4S/yGZwbxaEsBVy6VRts8gukEWI+XRHbilbYdt4Wk=",
+        "lastModified": 1754596984,
+        "narHash": "sha256-0EkgPL2d/uArA15q8wux9XzPMLgLisY0GDG8KMKlPeo=",
         "owner": "zigtools",
         "repo": "zls",
-        "rev": "ad5df4a03f015ae588a3dacb3bc403918b650cf2",
+        "rev": "b00ed99cd7d64b5531cf56c6b9baf24201698099",
         "type": "github"
       },
       "original": {
